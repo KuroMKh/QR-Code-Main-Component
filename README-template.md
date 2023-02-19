@@ -34,7 +34,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Netlify: .[Qr Component](https://qr-component-mkh.netlify.app/)
+- Netlify: [Qr Component](https://qr-component-mkh.netlify.app/)
 
 ## My process
 
